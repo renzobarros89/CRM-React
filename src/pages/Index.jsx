@@ -1,6 +1,6 @@
 import { useLoaderData } from "react-router-dom";
 import Cliente from "../components/Cliente";
-import { obtenerClientes } from "../data/clientes";
+import { obtenerClientes } from "../api/clientes";
 
 export function loader() {
   

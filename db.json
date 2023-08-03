@@ -8,11 +8,12 @@
       "empresa": "Codigo Con Juan"
     },
     {
-      "id": 2,
-      "nombre": "Karen",
-      "telefono": 138198313,
-      "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Karen2",
+      "empresa": "Codigo Con Juan2",
+      "email": "karen2@juan.com",
+      "telefono": "1381983132",
+      "notas": "222",
+      "id": 2
     },
     {
       "id": 3,
@@ -34,14 +35,6 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "Renzo",
-      "empresa": "renzocorp",
-      "email": "renzo@renzo.com",
-      "telefono": "23423432",
-      "notas": "notas reno",
-      "id": 6
     }
   ]
 }
